@@ -1,0 +1,121 @@
+Instance,n,Algorithm,Solution Size,Time (s),Valid,Status,Optimal,Optimal Found
+large_n100_01,100,ILP (CPLEX),,0.007301834997633705,,Problem size exceeded,,False
+large_n100_02,100,ILP (CPLEX),,0.005127886000991566,,Problem size exceeded,,False
+large_n100_03,100,ILP (CPLEX),,0.005396294000092894,,Problem size exceeded,,False
+large_n100_04,100,ILP (CPLEX),,0.006549752000864828,,Problem size exceeded,,False
+large_n100_05,100,ILP (CPLEX),,0.0059613959965645336,,Problem size exceeded,,False
+large_n100_06,100,ILP (CPLEX),,0.005790163999336073,,Problem size exceeded,,False
+large_n100_07,100,ILP (CPLEX),,0.005352560998289846,,Problem size exceeded,,False
+large_n100_08,100,ILP (CPLEX),,0.0055061560015019495,,Problem size exceeded,,False
+large_n100_09,100,ILP (CPLEX),,0.007079688002704643,,Problem size exceeded,,False
+large_n100_10,100,ILP (CPLEX),,0.005033817997173173,,Problem size exceeded,,False
+large_n150_01,150,ILP (CPLEX),,0.010480302000360098,,Problem size exceeded,,False
+large_n150_02,150,ILP (CPLEX),,0.034207567001431016,,Problem size exceeded,,False
+large_n150_03,150,ILP (CPLEX),,0.009435543001018232,,Problem size exceeded,,False
+large_n150_04,150,ILP (CPLEX),,0.010064924998005154,,Problem size exceeded,,False
+large_n150_05,150,ILP (CPLEX),,0.00951429199994891,,Problem size exceeded,,False
+large_n150_06,150,ILP (CPLEX),,0.010055892998934723,,Problem size exceeded,,False
+large_n150_07,150,ILP (CPLEX),,0.010139966001588618,,Problem size exceeded,,False
+large_n150_08,150,ILP (CPLEX),,0.00999929500176222,,Problem size exceeded,,False
+large_n150_09,150,ILP (CPLEX),,0.009679066999524366,,Problem size exceeded,,False
+large_n150_10,150,ILP (CPLEX),,0.010207016999629559,,Problem size exceeded,,False
+large_n75_01,75,ILP (CPLEX),14.0,0.1465882070006046,True,OK,14.0,True
+large_n75_02,75,ILP (CPLEX),12.0,0.11996240799999214,True,OK,12.0,True
+large_n75_03,75,ILP (CPLEX),13.0,0.11376306499732891,True,OK,13.0,True
+large_n75_04,75,ILP (CPLEX),13.0,0.11755627899765386,True,OK,13.0,True
+large_n75_05,75,ILP (CPLEX),13.0,0.12322373999995762,True,OK,13.0,True
+large_n75_06,75,ILP (CPLEX),13.0,0.11936320700260694,True,OK,13.0,True
+large_n75_07,75,ILP (CPLEX),14.0,0.11150249300044379,True,OK,14.0,True
+large_n75_08,75,ILP (CPLEX),14.0,0.1167511480016401,True,OK,14.0,True
+large_n75_09,75,ILP (CPLEX),13.0,0.1195476190005138,True,OK,13.0,True
+large_n75_10,75,ILP (CPLEX),14.0,0.11479638600212638,True,OK,14.0,True
+large_n100_01,100,Greedy,15.0,0.007579539000289515,True,,,False
+large_n100_02,100,Greedy,13.0,0.005718266998883337,True,,,False
+large_n100_03,100,Greedy,13.0,0.007075080000504386,True,,,False
+large_n100_04,100,Greedy,13.0,0.005885932998353383,True,,,False
+large_n100_05,100,Greedy,14.0,0.0058639379967644345,True,,,False
+large_n100_06,100,Greedy,12.0,0.0063410490001842845,True,,,False
+large_n100_07,100,Greedy,13.0,0.005254587998933857,True,,,False
+large_n100_08,100,Greedy,13.0,0.0062531560033676215,True,,,False
+large_n100_09,100,Greedy,13.0,0.007249676997162169,True,,,False
+large_n100_10,100,Greedy,12.0,0.0059047639988421,True,,,False
+large_n150_01,150,Greedy,17.0,0.012602878003235674,True,,,False
+large_n150_02,150,Greedy,15.0,0.012117089001549175,True,,,False
+large_n150_03,150,Greedy,16.0,0.012535005000245292,True,,,False
+large_n150_04,150,Greedy,15.0,0.011986526998953195,True,,,False
+large_n150_05,150,Greedy,14.0,0.01267434499823139,True,,,False
+large_n150_06,150,Greedy,15.0,0.013123401000484591,True,,,False
+large_n150_07,150,Greedy,16.0,0.013891651000449201,True,,,False
+large_n150_08,150,Greedy,14.0,0.012425310000253376,True,,,False
+large_n150_09,150,Greedy,15.0,0.011958967999817105,True,,,False
+large_n150_10,150,Greedy,13.0,0.011683035001624376,True,,,False
+large_n75_01,75,Greedy,11.0,0.003340052000567084,True,,14.0,False
+large_n75_02,75,Greedy,12.0,0.0032072040012280922,True,,12.0,True
+large_n75_03,75,Greedy,13.0,0.0034258259984198958,True,,13.0,True
+large_n75_04,75,Greedy,12.0,0.003377839999302523,True,,13.0,False
+large_n75_05,75,Greedy,12.0,0.003368510999280261,True,,13.0,False
+large_n75_06,75,Greedy,11.0,0.0031720890001452062,True,,13.0,False
+large_n75_07,75,Greedy,13.0,0.0036251310011721216,True,,14.0,False
+large_n75_08,75,Greedy,13.0,0.003623550001066178,True,,14.0,False
+large_n75_09,75,Greedy,11.0,0.003192311000020709,True,,13.0,False
+large_n75_10,75,Greedy,12.0,0.003372466999280732,True,,14.0,False
+large_n100_01,100,Genetic Algorithm,5.0,1.7244996310000715,True,,,False
+large_n100_02,100,Genetic Algorithm,8.0,1.6216034940007376,True,,,False
+large_n100_03,100,Genetic Algorithm,8.0,1.6271371920011006,True,,,False
+large_n100_04,100,Genetic Algorithm,5.0,1.7197523469985754,True,,,False
+large_n100_05,100,Genetic Algorithm,8.0,1.6880302509998728,True,,,False
+large_n100_06,100,Genetic Algorithm,6.0,1.7122858000002452,True,,,False
+large_n100_07,100,Genetic Algorithm,7.0,1.6611591280016,True,,,False
+large_n100_08,100,Genetic Algorithm,4.0,1.6430213280000316,True,,,False
+large_n100_09,100,Genetic Algorithm,7.0,1.6054286660000798,True,,,False
+large_n100_10,100,Genetic Algorithm,8.0,1.6662964489987644,True,,,False
+large_n150_01,150,Genetic Algorithm,9.0,2.8748395210022863,True,,,False
+large_n150_02,150,Genetic Algorithm,0.0,2.8594096699998772,True,,,False
+large_n150_03,150,Genetic Algorithm,0.0,2.9520874669979094,True,,,False
+large_n150_04,150,Genetic Algorithm,0.0,2.8836128729999473,True,,,False
+large_n150_05,150,Genetic Algorithm,0.0,2.8341594060002535,True,,,False
+large_n150_06,150,Genetic Algorithm,8.0,2.6194601740025973,True,,,False
+large_n150_07,150,Genetic Algorithm,0.0,2.932004436999705,True,,,False
+large_n150_08,150,Genetic Algorithm,0.0,2.9491530070008594,True,,,False
+large_n150_09,150,Genetic Algorithm,0.0,3.0696437239967054,True,,,False
+large_n150_10,150,Genetic Algorithm,0.0,2.914383077997627,True,,,False
+large_n75_01,75,Genetic Algorithm,8.0,1.1855795800001943,True,,14.0,False
+large_n75_02,75,Genetic Algorithm,8.0,1.2297504189991741,True,,12.0,False
+large_n75_03,75,Genetic Algorithm,8.0,1.2102660170021409,True,,13.0,False
+large_n75_04,75,Genetic Algorithm,7.0,1.2179934980013059,True,,13.0,False
+large_n75_05,75,Genetic Algorithm,6.0,1.1777883819995623,True,,13.0,False
+large_n75_06,75,Genetic Algorithm,8.0,1.2220166879997123,True,,13.0,False
+large_n75_07,75,Genetic Algorithm,6.0,1.1873275189973356,True,,14.0,False
+large_n75_08,75,Genetic Algorithm,6.0,1.2264593100007914,True,,14.0,False
+large_n75_09,75,Genetic Algorithm,7.0,1.216040780000185,True,,13.0,False
+large_n75_10,75,Genetic Algorithm,6.0,1.2160567569990235,True,,14.0,False
+large_n100_01,100,Tabu Search,14.0,0.034348127999692224,True,,,False
+large_n100_02,100,Tabu Search,12.0,0.029562411000370048,True,,,False
+large_n100_03,100,Tabu Search,14.0,0.032579875998635544,True,,,False
+large_n100_04,100,Tabu Search,13.0,0.03153484599897638,True,,,False
+large_n100_05,100,Tabu Search,11.0,0.02758841800095979,True,,,False
+large_n100_06,100,Tabu Search,12.0,0.03068848100156174,True,,,False
+large_n100_07,100,Tabu Search,12.0,0.029944972000521375,True,,,False
+large_n100_08,100,Tabu Search,14.0,0.031917735999741126,True,,,False
+large_n100_09,100,Tabu Search,14.0,0.03229730900056893,True,,,False
+large_n100_10,100,Tabu Search,12.0,0.02929784400112112,True,,,False
+large_n150_01,150,Tabu Search,15.0,0.05341865599984885,True,,,False
+large_n150_02,150,Tabu Search,16.0,0.05715286600025138,True,,,False
+large_n150_03,150,Tabu Search,14.0,0.05553807699834579,True,,,False
+large_n150_04,150,Tabu Search,13.0,0.051516717998310924,True,,,False
+large_n150_05,150,Tabu Search,16.0,0.055934457002877025,True,,,False
+large_n150_06,150,Tabu Search,15.0,0.054175698998733424,True,,,False
+large_n150_07,150,Tabu Search,13.0,0.04952231799688889,True,,,False
+large_n150_08,150,Tabu Search,15.0,0.0537665060001018,True,,,False
+large_n150_09,150,Tabu Search,14.0,0.052767343000596156,True,,,False
+large_n150_10,150,Tabu Search,14.0,0.052668547999928705,True,,,False
+large_n75_01,75,Tabu Search,12.0,0.021028819999628467,True,,14.0,False
+large_n75_02,75,Tabu Search,11.0,0.020518901001196355,True,,12.0,False
+large_n75_03,75,Tabu Search,13.0,0.02439803300148924,True,,13.0,True
+large_n75_04,75,Tabu Search,12.0,0.021475498000654625,True,,13.0,False
+large_n75_05,75,Tabu Search,10.0,0.019656906002637697,True,,13.0,False
+large_n75_06,75,Tabu Search,11.0,0.02296957400176325,True,,13.0,False
+large_n75_07,75,Tabu Search,13.0,0.023623829998541623,True,,14.0,False
+large_n75_08,75,Tabu Search,12.0,0.02172970500032534,True,,14.0,False
+large_n75_09,75,Tabu Search,10.0,0.019829209999443265,True,,13.0,False
+large_n75_10,75,Tabu Search,12.0,0.022550040997884935,True,,14.0,False

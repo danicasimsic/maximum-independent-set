@@ -1,0 +1,121 @@
+Instance,n,Algorithm,Solution Size,Time (s),Valid,Optimal,Optimal Found
+small_n10_01,10,Brute Force,6,0.001143666999269044,True,6,True
+small_n10_02,10,Brute Force,5,0.0011450260026322212,True,5,True
+small_n10_03,10,Brute Force,5,0.0010907549985859077,True,5,True
+small_n10_04,10,Brute Force,5,0.0010242940006719436,True,5,True
+small_n10_05,10,Brute Force,5,0.0012825129997509066,True,5,True
+small_n10_06,10,Brute Force,4,0.0012504519982030615,True,4,True
+small_n10_07,10,Brute Force,4,0.0010907299983955454,True,4,True
+small_n10_08,10,Brute Force,6,0.0009478540014242753,True,6,True
+small_n10_09,10,Brute Force,6,0.0009335220020147972,True,6,True
+small_n10_10,10,Brute Force,4,0.001120141001592856,True,4,True
+small_n15_01,15,Brute Force,7,0.04753412699938053,True,7,True
+small_n15_02,15,Brute Force,7,0.045961171003000345,True,7,True
+small_n15_03,15,Brute Force,5,0.0500373379982193,True,5,True
+small_n15_04,15,Brute Force,7,0.04305868899973575,True,7,True
+small_n15_05,15,Brute Force,7,0.04832497300230898,True,7,True
+small_n15_06,15,Brute Force,7,0.05523507700127084,True,7,True
+small_n15_07,15,Brute Force,7,0.04974766899977112,True,7,True
+small_n15_08,15,Brute Force,6,0.056882475000747945,True,6,True
+small_n15_09,15,Brute Force,7,0.05213487599758082,True,7,True
+small_n15_10,15,Brute Force,7,0.05326673400122672,True,7,True
+small_n20_01,20,Brute Force,7,2.312679720998858,True,7,True
+small_n20_02,20,Brute Force,8,2.16874446699876,True,8,True
+small_n20_03,20,Brute Force,8,2.1456477109968546,True,8,True
+small_n20_04,20,Brute Force,7,2.272266481999395,True,7,True
+small_n20_05,20,Brute Force,7,2.2000218350003706,True,7,True
+small_n20_06,20,Brute Force,8,2.377315275996807,True,8,True
+small_n20_07,20,Brute Force,8,2.353755517000536,True,8,True
+small_n20_08,20,Brute Force,7,2.465313207998406,True,7,True
+small_n20_09,20,Brute Force,7,2.406369292002637,True,7,True
+small_n20_10,20,Brute Force,7,2.124394520997157,True,7,True
+small_n10_01,10,Greedy,6,0.00014527500024996698,True,6,True
+small_n10_02,10,Greedy,5,9.301899990532547e-05,True,5,True
+small_n10_03,10,Greedy,5,8.036800136324018e-05,True,5,True
+small_n10_04,10,Greedy,5,0.00010977599959005602,True,5,True
+small_n10_05,10,Greedy,5,0.00010233600187348202,True,5,True
+small_n10_06,10,Greedy,4,7.934400127851404e-05,True,4,True
+small_n10_07,10,Greedy,4,7.733600068604574e-05,True,4,True
+small_n10_08,10,Greedy,6,0.00010995500269928016,True,6,True
+small_n10_09,10,Greedy,6,7.904399899416603e-05,True,6,True
+small_n10_10,10,Greedy,4,5.948400212218985e-05,True,4,True
+small_n15_01,15,Greedy,7,0.0002317020007467363,True,7,True
+small_n15_02,15,Greedy,7,0.00017793300139601342,True,7,True
+small_n15_03,15,Greedy,5,0.00013468300312524661,True,5,True
+small_n15_04,15,Greedy,6,0.00015031299699330702,True,7,False
+small_n15_05,15,Greedy,7,0.00016777399650891311,True,7,True
+small_n15_06,15,Greedy,7,0.00018475099932402372,True,7,True
+small_n15_07,15,Greedy,7,0.00016863800192368217,True,7,True
+small_n15_08,15,Greedy,5,0.0001367289987683762,True,6,False
+small_n15_09,15,Greedy,7,0.00017124700025306083,True,7,True
+small_n15_10,15,Greedy,7,0.000150423999002669,True,7,True
+small_n20_01,20,Greedy,7,0.00026887800049735233,True,7,True
+small_n20_02,20,Greedy,7,0.0003117099986411631,True,8,False
+small_n20_03,20,Greedy,6,0.00020244500046828762,True,8,False
+small_n20_04,20,Greedy,7,0.00023536400112789124,True,7,True
+small_n20_05,20,Greedy,7,0.0002813479986798484,True,7,True
+small_n20_06,20,Greedy,8,0.00023655999757465906,True,8,True
+small_n20_07,20,Greedy,8,0.0002807220007525757,True,8,True
+small_n20_08,20,Greedy,7,0.0002171989981434308,True,7,True
+small_n20_09,20,Greedy,7,0.00023292500191018917,True,7,True
+small_n20_10,20,Greedy,7,0.00023653999960515648,True,7,True
+small_n10_01,10,Genetic Algorithm,6,0.14169797700014897,True,6,True
+small_n10_02,10,Genetic Algorithm,5,0.1250023609973141,True,5,True
+small_n10_03,10,Genetic Algorithm,5,0.12492973999906098,True,5,True
+small_n10_04,10,Genetic Algorithm,5,0.12784091600042302,True,5,True
+small_n10_05,10,Genetic Algorithm,5,0.1286224499999662,True,5,True
+small_n10_06,10,Genetic Algorithm,4,0.15085278599872254,True,4,True
+small_n10_07,10,Genetic Algorithm,4,0.12607734400080517,True,4,True
+small_n10_08,10,Genetic Algorithm,6,0.130478654999024,True,6,True
+small_n10_09,10,Genetic Algorithm,6,0.1273050229974615,True,6,True
+small_n10_10,10,Genetic Algorithm,4,0.12523069100279827,True,4,True
+small_n15_01,15,Genetic Algorithm,7,0.14327228899855982,True,7,True
+small_n15_02,15,Genetic Algorithm,7,0.14336301100047422,True,7,True
+small_n15_03,15,Genetic Algorithm,5,0.13965087899850914,True,5,True
+small_n15_04,15,Genetic Algorithm,6,0.13923035100015113,True,7,False
+small_n15_05,15,Genetic Algorithm,7,0.142719023002428,True,7,True
+small_n15_06,15,Genetic Algorithm,7,0.14245583899901249,True,7,True
+small_n15_07,15,Genetic Algorithm,7,0.140368534001027,True,7,True
+small_n15_08,15,Genetic Algorithm,6,0.14018854700043448,True,6,True
+small_n15_09,15,Genetic Algorithm,7,0.142463296000642,True,7,True
+small_n15_10,15,Genetic Algorithm,6,0.1413483010001073,True,7,False
+small_n20_01,20,Genetic Algorithm,7,0.15491704699888942,True,7,True
+small_n20_02,20,Genetic Algorithm,7,0.15487569000106305,True,8,False
+small_n20_03,20,Genetic Algorithm,6,0.15516888799902517,True,8,False
+small_n20_04,20,Genetic Algorithm,6,0.1537771410003188,True,7,False
+small_n20_05,20,Genetic Algorithm,7,0.1597118510035216,True,7,True
+small_n20_06,20,Genetic Algorithm,7,0.15635787000064738,True,8,False
+small_n20_07,20,Genetic Algorithm,8,0.15733189599995967,True,8,True
+small_n20_08,20,Genetic Algorithm,6,0.15302429599978495,True,7,False
+small_n20_09,20,Genetic Algorithm,7,0.15328161900106352,True,7,True
+small_n20_10,20,Genetic Algorithm,7,0.15338943300230312,True,7,True
+small_n10_01,10,Tabu Search,6,0.00035191300048609264,True,6,True
+small_n10_02,10,Tabu Search,5,0.00057060900144279,True,5,True
+small_n10_03,10,Tabu Search,5,0.004223005998937879,True,5,True
+small_n10_04,10,Tabu Search,5,0.0038059109974710736,True,5,True
+small_n10_05,10,Tabu Search,4,0.00330010000106995,True,5,False
+small_n10_06,10,Tabu Search,4,0.0025214660017809365,True,4,True
+small_n10_07,10,Tabu Search,4,0.0015633779985364527,True,4,True
+small_n10_08,10,Tabu Search,6,0.00011651599925244227,True,6,True
+small_n10_09,10,Tabu Search,6,0.0013876579978386872,True,6,True
+small_n10_10,10,Tabu Search,4,0.0001032840009429492,True,4,True
+small_n15_01,15,Tabu Search,7,0.002411760997347301,True,7,True
+small_n15_02,15,Tabu Search,7,0.002340334998734761,True,7,True
+small_n15_03,15,Tabu Search,5,0.002500742000847822,True,5,True
+small_n15_04,15,Tabu Search,7,0.002202718998887576,True,7,True
+small_n15_05,15,Tabu Search,7,0.0020653669998864643,True,7,True
+small_n15_06,15,Tabu Search,7,0.0020380210007715505,True,7,True
+small_n15_07,15,Tabu Search,6,0.0019397329997445922,True,7,False
+small_n15_08,15,Tabu Search,6,0.0019990530017821584,True,6,True
+small_n15_09,15,Tabu Search,7,0.0019872779994329903,True,7,True
+small_n15_10,15,Tabu Search,7,0.003187385002092924,True,7,True
+small_n20_01,20,Tabu Search,7,0.0037601960029860493,True,7,True
+small_n20_02,20,Tabu Search,8,0.0032305019994964823,True,8,True
+small_n20_03,20,Tabu Search,7,0.0033633719976933207,True,8,False
+small_n20_04,20,Tabu Search,7,0.0031362960035039578,True,7,True
+small_n20_05,20,Tabu Search,6,0.002945451997220516,True,7,False
+small_n20_06,20,Tabu Search,8,0.003445413000008557,True,8,True
+small_n20_07,20,Tabu Search,8,0.003146086000924697,True,8,True
+small_n20_08,20,Tabu Search,5,0.0028569079986482393,True,7,False
+small_n20_09,20,Tabu Search,7,0.0030046100000618026,True,7,True
+small_n20_10,20,Tabu Search,7,0.0030353479996847454,True,7,True

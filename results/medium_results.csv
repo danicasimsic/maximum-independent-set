@@ -1,0 +1,161 @@
+Instance,n,Algorithm,Solution Size,Time (s),Valid,Optimal,Optimal Found
+medium_n25_01,25,CPLEX,8,0.007849300000088988,True,8,True
+medium_n25_02,25,CPLEX,9,0.005937385998549871,True,9,True
+medium_n25_03,25,CPLEX,9,0.00592791000053694,True,9,True
+medium_n25_04,25,CPLEX,8,0.00992891299938492,True,8,True
+medium_n25_05,25,CPLEX,7,0.006632990000071004,True,7,True
+medium_n25_06,25,CPLEX,8,0.006991277999986778,True,8,True
+medium_n25_07,25,CPLEX,8,0.0071131010008684825,True,8,True
+medium_n25_08,25,CPLEX,8,0.00624858900118852,True,8,True
+medium_n25_09,25,CPLEX,8,0.009419052999874111,True,8,True
+medium_n25_10,25,CPLEX,8,0.005318523000823916,True,8,True
+medium_n30_01,30,CPLEX,10,0.005212037000092096,True,10,True
+medium_n30_02,30,CPLEX,9,0.008734073999221437,True,9,True
+medium_n30_03,30,CPLEX,9,0.0071402559988200665,True,9,True
+medium_n30_04,30,CPLEX,9,0.007917573999293381,True,9,True
+medium_n30_05,30,CPLEX,10,0.02393178300008003,True,10,True
+medium_n30_06,30,CPLEX,8,0.026956615000017337,True,8,True
+medium_n30_07,30,CPLEX,10,0.02739348199975211,True,10,True
+medium_n30_08,30,CPLEX,9,0.005082910000055563,True,9,True
+medium_n30_09,30,CPLEX,9,0.00576259900117293,True,9,True
+medium_n30_10,30,CPLEX,9,0.03704976399967563,True,9,True
+medium_n40_01,40,CPLEX,10,0.02926368999942497,True,10,True
+medium_n40_02,40,CPLEX,10,0.02137303200106544,True,10,True
+medium_n40_03,40,CPLEX,10,0.016574135999690043,True,10,True
+medium_n40_04,40,CPLEX,10,0.011861256998599856,True,10,True
+medium_n40_05,40,CPLEX,12,0.009032699999806937,True,12,True
+medium_n40_06,40,CPLEX,10,0.05548318900036975,True,10,True
+medium_n40_07,40,CPLEX,10,0.01615789599964046,True,10,True
+medium_n40_08,40,CPLEX,11,0.006151257999590598,True,11,True
+medium_n40_09,40,CPLEX,10,0.02446321800016449,True,10,True
+medium_n40_10,40,CPLEX,10,0.05724437599928933,True,10,True
+medium_n50_01,50,CPLEX,12,0.028690859999187523,True,12,True
+medium_n50_02,50,CPLEX,12,0.060837095999886515,True,12,True
+medium_n50_03,50,CPLEX,11,0.1138974989989947,True,11,True
+medium_n50_04,50,CPLEX,11,0.06940883199968084,True,11,True
+medium_n50_05,50,CPLEX,11,0.08449241400012397,True,11,True
+medium_n50_06,50,CPLEX,11,0.10666989799938165,True,11,True
+medium_n50_07,50,CPLEX,12,0.10231114199996227,True,12,True
+medium_n50_08,50,CPLEX,12,0.08443361100034963,True,12,True
+medium_n50_09,50,CPLEX,11,0.09269024500099476,True,11,True
+medium_n50_10,50,CPLEX,12,0.0363714949999121,True,12,True
+medium_n25_01,25,Greedy,8,0.0004769159986608429,True,8,True
+medium_n25_02,25,Greedy,9,0.0004503399995883228,True,9,True
+medium_n25_03,25,Greedy,9,0.0004527810015133582,True,9,True
+medium_n25_04,25,Greedy,8,0.00042401900100230705,True,8,True
+medium_n25_05,25,Greedy,7,0.0003594209993025288,True,7,True
+medium_n25_06,25,Greedy,8,0.000384674998713308,True,8,True
+medium_n25_07,25,Greedy,8,0.000399484000809025,True,8,True
+medium_n25_08,25,Greedy,8,0.00048658000014256686,True,8,True
+medium_n25_09,25,Greedy,7,0.00038214699998206925,True,8,False
+medium_n25_10,25,Greedy,8,0.000386768000680604,True,8,True
+medium_n30_01,30,Greedy,9,0.0009197880008287029,True,10,False
+medium_n30_02,30,Greedy,9,0.0006163289999676635,True,9,True
+medium_n30_03,30,Greedy,9,0.000683402999129612,True,9,True
+medium_n30_04,30,Greedy,8,0.0006238250007299939,True,9,False
+medium_n30_05,30,Greedy,9,0.0006442209996748716,True,10,False
+medium_n30_06,30,Greedy,8,0.00047209500007738825,True,8,True
+medium_n30_07,30,Greedy,10,0.0009201880002365215,True,10,True
+medium_n30_08,30,Greedy,8,0.0004502869996940717,True,9,False
+medium_n30_09,30,Greedy,7,0.0004674499996326631,True,9,False
+medium_n30_10,30,Greedy,8,0.0006376220007950906,True,9,False
+medium_n40_01,40,Greedy,10,0.00103562399999646,True,10,True
+medium_n40_02,40,Greedy,9,0.0009099330000026384,True,10,False
+medium_n40_03,40,Greedy,10,0.000874814999406226,True,10,True
+medium_n40_04,40,Greedy,8,0.0009342509983980563,True,10,False
+medium_n40_05,40,Greedy,11,0.0012060409990226617,True,12,False
+medium_n40_06,40,Greedy,9,0.0009024319988384377,True,10,False
+medium_n40_07,40,Greedy,10,0.000858245000927127,True,10,True
+medium_n40_08,40,Greedy,10,0.0009363519984617596,True,11,False
+medium_n40_09,40,Greedy,10,0.0009620219989301404,True,10,True
+medium_n40_10,40,Greedy,10,0.0011053770012949826,True,10,True
+medium_n50_01,50,Greedy,11,0.0017277070001000538,True,12,False
+medium_n50_02,50,Greedy,11,0.001671649999479996,True,12,False
+medium_n50_03,50,Greedy,11,0.0014551090007444145,True,11,True
+medium_n50_04,50,Greedy,11,0.0015793439997651149,True,11,True
+medium_n50_05,50,Greedy,11,0.0013945150003564777,True,11,True
+medium_n50_06,50,Greedy,10,0.0014247500002966262,True,11,False
+medium_n50_07,50,Greedy,11,0.0016877540001587477,True,12,False
+medium_n50_08,50,Greedy,10,0.0014277669997682096,True,12,False
+medium_n50_09,50,Greedy,10,0.0015278110004146583,True,11,False
+medium_n50_10,50,Greedy,11,0.0014740620008524274,True,12,False
+medium_n25_01,25,Genetic Algorithm,7,0.17360476099929656,True,8,False
+medium_n25_02,25,Genetic Algorithm,6,0.16062142500049958,True,9,False
+medium_n25_03,25,Genetic Algorithm,8,0.1647735329988791,True,9,False
+medium_n25_04,25,Genetic Algorithm,6,0.16872518799937097,True,8,False
+medium_n25_05,25,Genetic Algorithm,6,0.17477495899947826,True,7,False
+medium_n25_06,25,Genetic Algorithm,7,0.1619314640010998,True,8,False
+medium_n25_07,25,Genetic Algorithm,8,0.17642693000016152,True,8,True
+medium_n25_08,25,Genetic Algorithm,7,0.1673587410004984,True,8,False
+medium_n25_09,25,Genetic Algorithm,6,0.16672871399896394,True,8,False
+medium_n25_10,25,Genetic Algorithm,7,0.17213734799952363,True,8,False
+medium_n30_01,30,Genetic Algorithm,7,0.1781658800009609,True,10,False
+medium_n30_02,30,Genetic Algorithm,7,0.175375755999994,True,9,False
+medium_n30_03,30,Genetic Algorithm,7,0.19557609199910075,True,9,False
+medium_n30_04,30,Genetic Algorithm,7,0.18639935899955162,True,9,False
+medium_n30_05,30,Genetic Algorithm,7,0.1865752319990861,True,10,False
+medium_n30_06,30,Genetic Algorithm,6,0.18067196599986346,True,8,False
+medium_n30_07,30,Genetic Algorithm,9,0.18181600700154377,True,10,False
+medium_n30_08,30,Genetic Algorithm,6,0.18357868500061159,True,9,False
+medium_n30_09,30,Genetic Algorithm,6,0.18306643399955647,True,9,False
+medium_n30_10,30,Genetic Algorithm,7,0.17806691199984925,True,9,False
+medium_n40_01,40,Genetic Algorithm,6,0.21194616399952793,True,10,False
+medium_n40_02,40,Genetic Algorithm,7,0.21274483399974997,True,10,False
+medium_n40_03,40,Genetic Algorithm,5,0.21055268800046179,True,10,False
+medium_n40_04,40,Genetic Algorithm,6,0.21125323900014337,True,10,False
+medium_n40_05,40,Genetic Algorithm,9,0.22218024900030287,True,12,False
+medium_n40_06,40,Genetic Algorithm,7,0.23514751299990166,True,10,False
+medium_n40_07,40,Genetic Algorithm,7,0.21252856200044334,True,10,False
+medium_n40_08,40,Genetic Algorithm,6,0.2248238259999198,True,11,False
+medium_n40_09,40,Genetic Algorithm,7,0.20422841999970842,True,10,False
+medium_n40_10,40,Genetic Algorithm,7,0.21123143200020422,True,10,False
+medium_n50_01,50,Genetic Algorithm,6,0.27304571000058786,True,12,False
+medium_n50_02,50,Genetic Algorithm,7,0.2626349769998342,True,12,False
+medium_n50_03,50,Genetic Algorithm,7,0.25577851200068835,True,11,False
+medium_n50_04,50,Genetic Algorithm,7,0.25890185800017207,True,11,False
+medium_n50_05,50,Genetic Algorithm,7,0.24986023300152738,True,11,False
+medium_n50_06,50,Genetic Algorithm,7,0.24806009999883827,True,11,False
+medium_n50_07,50,Genetic Algorithm,8,0.2472345200003474,True,12,False
+medium_n50_08,50,Genetic Algorithm,8,0.25410291499974846,True,12,False
+medium_n50_09,50,Genetic Algorithm,7,0.24720413099930738,True,11,False
+medium_n50_10,50,Genetic Algorithm,8,0.24899191000076826,True,12,False
+medium_n25_01,25,Tabu Search,8,0.004801561999556725,True,8,True
+medium_n25_02,25,Tabu Search,9,0.0055671099999017315,True,9,True
+medium_n25_03,25,Tabu Search,9,0.004731529999844497,True,9,True
+medium_n25_04,25,Tabu Search,8,0.004626134999853093,True,8,True
+medium_n25_05,25,Tabu Search,7,0.004615773999830708,True,7,True
+medium_n25_06,25,Tabu Search,8,0.0046323019996634685,True,8,True
+medium_n25_07,25,Tabu Search,7,0.0043369070008338895,True,8,False
+medium_n25_08,25,Tabu Search,8,0.00419629699899815,True,8,True
+medium_n25_09,25,Tabu Search,8,0.00417329500123742,True,8,True
+medium_n25_10,25,Tabu Search,8,0.004353590000391705,True,8,True
+medium_n30_01,30,Tabu Search,9,0.005841643998792279,True,10,False
+medium_n30_02,30,Tabu Search,9,0.00576951699986239,True,9,True
+medium_n30_03,30,Tabu Search,9,0.005759744999522809,True,9,True
+medium_n30_04,30,Tabu Search,8,0.005462229999466217,True,9,False
+medium_n30_05,30,Tabu Search,9,0.005430962000900763,True,10,False
+medium_n30_06,30,Tabu Search,8,0.0057013469995581545,True,8,True
+medium_n30_07,30,Tabu Search,10,0.00598800399893662,True,10,True
+medium_n30_08,30,Tabu Search,8,0.005600667998805875,True,9,False
+medium_n30_09,30,Tabu Search,7,0.005247928000244428,True,9,False
+medium_n30_10,30,Tabu Search,8,0.005572731999563985,True,9,False
+medium_n40_01,40,Tabu Search,10,0.008965655000793049,True,10,True
+medium_n40_02,40,Tabu Search,9,0.00845828999990772,True,10,False
+medium_n40_03,40,Tabu Search,9,0.008281613998406101,True,10,False
+medium_n40_04,40,Tabu Search,9,0.008486317999995663,True,10,False
+medium_n40_05,40,Tabu Search,11,0.00948107399926812,True,12,False
+medium_n40_06,40,Tabu Search,9,0.008454400000118767,True,10,False
+medium_n40_07,40,Tabu Search,9,0.00816258000122616,True,10,False
+medium_n40_08,40,Tabu Search,8,0.008217864999096491,True,11,False
+medium_n40_09,40,Tabu Search,7,0.0083957000006194,True,10,False
+medium_n40_10,40,Tabu Search,10,0.010619184000461246,True,10,True
+medium_n50_01,50,Tabu Search,12,0.014617377999456949,True,12,True
+medium_n50_02,50,Tabu Search,10,0.012417736999850604,True,12,False
+medium_n50_03,50,Tabu Search,11,0.012663043999054935,True,11,True
+medium_n50_04,50,Tabu Search,11,0.012759495999489445,True,11,True
+medium_n50_05,50,Tabu Search,11,0.011910483000974637,True,11,True
+medium_n50_06,50,Tabu Search,9,0.011337521998939337,True,11,False
+medium_n50_07,50,Tabu Search,12,0.012988952999876346,True,12,True
+medium_n50_08,50,Tabu Search,12,0.013297783998496016,True,12,True
+medium_n50_09,50,Tabu Search,11,0.012363286999971024,True,11,True
+medium_n50_10,50,Tabu Search,10,0.012402427000779426,True,12,False

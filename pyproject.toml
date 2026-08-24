@@ -1,0 +1,17 @@
+[project]
+name = "maximum-independent-set"
+version = "0.1.0"
+description = "Implementation and experimental evaluation of algorithms for the Maximum Independent Set problem."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.5",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+]
