@@ -12,15 +12,12 @@ def get_conflicting_vertices(graph, solution, vertex):
 
 # Vraća susedno rešenje najveće veličine
 def get_neighbors(graph, solution):
-    """
-    Generiše susede trenutnog rešenja korišćenjem (k,1)-swap poteza.
 
-    Za svaki mogući novi čvor čuvamo:
-    - novo rešenje
-    - dodati čvor
-    - izbačene čvorove
-    - k, odnosno broj izbačenih čvorova
-    """
+    #Generišemo susede trenutnog rešenja korišćenjem (k,1)-swap poteza.
+
+    #Za svaki novi čvor čuvamo novo rešenje, koji čvor je dodat, 
+    #koji čvorovi su izbačeni, koliko njih je izbačeno(tj broj k)
+
     n = len(graph)
     neighbors = []
 
@@ -106,14 +103,9 @@ def generate_initial_solution(graph):
 
 
 def classify_neighbors(neighbors):
-    """
-    Razvrstava susede prema broju izbačenih čvorova k.
+    
+    # Razvrstavamo susede prema broju izbačenih čvorova k.
 
-    NS0 - potezi sa k = 0
-    NS1 - potezi sa k = 1
-    NS2 - potezi sa k = 2
-    NS>2 - potezi sa k > 2
-    """
 
     ns0 = []
     ns1 = []
@@ -139,17 +131,13 @@ def classify_neighbors(neighbors):
     return ns0, ns1, ns2, ns_more
 
 def select_move(neighbors, tabu_list, best_size):
-    """
-    Bira sledeći potez.
+    
+    #Bira se sledeći potez.
 
-    Prioritet imaju:
-    1. potezi sa k = 0
-    2. potezi sa k = 1
-    3. potezi sa k > 1
+    #Prioritet imaju: potezi sa k = 0, zatim potezi sa k = 1 i na kraju potezi sa k > 1
 
-    Tabu potezi se preskaču, osim ako vode
-    do rešenja boljeg od trenutno najboljeg.
-    """
+    #Tabu potezi se preskaču, osim ako vode
+    #do rešenja boljeg od trenutno najboljeg.
 
     ns0, ns1, ns2, ns_more = classify_neighbors(neighbors)
 
@@ -188,29 +176,14 @@ def apply_move(move):
     return move["solution"].copy()
 
 def update_tabu_after_move(tabu_list, move, tenure):
-    """
-    Dodaje izbačene čvorove u tabu listu.
+    
+    #Dodajemo izbačene čvorove u tabu listu.
 
-    Čvorovi koji su izbačeni iz rešenja
-    neko vreme ne mogu ponovo da budu dodati.
-    """
 
     for vertex in move["removed"]:
         tabu_list[vertex] = tenure
 
 def tabu_search(graph, iterations = 100, tabu_tenure = 5):
-    """
-    Tabu Search za problem Maximum Independent Set.
-
-    graph:
-        matrica susedstva grafa
-
-    iterations:
-        broj iteracija algoritma
-
-    tabu_tenure:
-        broj iteracija tokom kojih je izbačeni čvor tabu
-    """
 
     # Početno rešenje
     current_solution = generate_initial_solution(graph)
